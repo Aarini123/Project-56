@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+    color: fuchsia;
+    font-style: italic;
+    text-align: center
+}
+
+img {
+    width: 250;
+    height: 300px;
+}
+h3{
+    font-size: 35;
+}
+h2{
+    font-size: 35;
+
+}
+h4{
+    font-size: 35;
+}
